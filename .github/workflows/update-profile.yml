@@ -41,7 +41,7 @@ jobs:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           # Clone your profile repository
-          git clone https://x-access-token:${GH_PAT}@github.com/AnujYadav-Dev/AnujYadav-Dev.git profile-repo
+          git clone https://x-access-token:${GH_PAT}@github.com/shivangrai5143/shivangrai5143.git profile-repo
           
           # Copy the generated GIF to profile repo (replaces old GIF only)
           cp game.gif profile-repo/
