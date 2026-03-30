@@ -24,7 +24,7 @@ from src.game import Animator, RandomStrategy, ColumnStrategy, RowStrategy
 # CONFIGURATION - Edit these values to customize your GIF!
 # ============================================================
 
-USERNAME = "AnujYadav-Dev"       # Your GitHub username
+USERNAME = "shivangrai5143"       # Your GitHub username
 OUTPUT_FILE = "game.gif"         # Output filename
 STRATEGY = "random"              # Options: "random", "column", "row"
 FPS = 40                         # Animation speed (20-50 recommended)
