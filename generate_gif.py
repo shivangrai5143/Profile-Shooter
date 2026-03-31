@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate GitHub Space Shooter GIF for profile.
+"""Generate GitHub Space Shooter GIF for profile...
 
 This script fetches your GitHub contribution data and generates
 an animated space shooter GIF that can be displayed on your profile.
