@@ -1,5 +1,5 @@
 # Profile Shooter 🚀
-hi
+
 A private repository that automatically generates and updates an animated space shooter GIF on your GitHub profile. Your GitHub contributions become enemies in an epic space battle!
 
 <img src="./example.gif" alt="Space Shooter" width="100%">
